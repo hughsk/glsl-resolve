@@ -1,0 +1,5 @@
+{
+  "name": "fixtures-main-glslify",
+  "glslify": "thing.glsl",
+  "main": "another.glsl"
+}
