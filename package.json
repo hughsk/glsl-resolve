@@ -1,7 +1,7 @@
 {
   "name": "glsl-resolve",
   "description": "A wrapper for the \"resolve\" module that targets GLSL shaders instead of JavaScript",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "dependencies": {
     "resolve": "^0.6.1",
